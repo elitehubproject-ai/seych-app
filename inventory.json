@@ -1,0 +1,857 @@
+{
+  "532796366": {
+    "cases": [
+      {
+        "id": 3206,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 548605,
+          "added_to_inv": "2025-12-26T23:57:30.094266"
+        },
+        "added_date": "2025-12-26T23:57:30.094791"
+      },
+      {
+        "id": 3423,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 354852,
+          "added_to_inv": "2025-12-27T00:38:07.948514"
+        },
+        "added_date": "2025-12-27T00:38:07.948922"
+      },
+      {
+        "id": 5631,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:42:38.513954"
+        },
+        "added_date": "2025-12-27T00:42:38.536478"
+      },
+      {
+        "id": 7897,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:42:40.277933"
+        },
+        "added_date": "2025-12-27T00:42:40.299177"
+      },
+      {
+        "id": 9401,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:42:41.053096"
+        },
+        "added_date": "2025-12-27T00:42:41.073970"
+      },
+      {
+        "id": 9671,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:42:41.947547"
+        },
+        "added_date": "2025-12-27T00:42:41.968648"
+      },
+      {
+        "id": 1761,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:42:42.738196"
+        },
+        "added_date": "2025-12-27T00:42:42.757989"
+      },
+      {
+        "id": 1890,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:42:43.552754"
+        },
+        "added_date": "2025-12-27T00:42:43.573775"
+      },
+      {
+        "id": 5287,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:42:45.014027"
+        },
+        "added_date": "2025-12-27T00:42:45.036892"
+      },
+      {
+        "id": 3034,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:42:45.908748"
+        },
+        "added_date": "2025-12-27T00:42:45.931118"
+      },
+      {
+        "id": 4570,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:42:47.486538"
+        },
+        "added_date": "2025-12-27T00:42:47.508236"
+      },
+      {
+        "id": 6190,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:42:53.831127"
+        },
+        "added_date": "2025-12-27T00:42:53.854280"
+      },
+      {
+        "id": 9893,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:42:54.725205"
+        },
+        "added_date": "2025-12-27T00:42:54.747614"
+      },
+      {
+        "id": 3593,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:42:55.578993"
+        },
+        "added_date": "2025-12-27T00:42:55.610641"
+      },
+      {
+        "id": 2898,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:42:56.396344"
+        },
+        "added_date": "2025-12-27T00:42:56.422398"
+      },
+      {
+        "id": 9185,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:42:58.423591"
+        },
+        "added_date": "2025-12-27T00:42:58.424392"
+      },
+      {
+        "id": 5009,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:43:00.894489"
+        },
+        "added_date": "2025-12-27T00:43:00.915680"
+      },
+      {
+        "id": 7424,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:43:01.809125"
+        },
+        "added_date": "2025-12-27T00:43:01.830873"
+      },
+      {
+        "id": 9312,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 573328,
+          "added_to_inv": "2025-12-27T00:43:02.670502"
+        },
+        "added_date": "2025-12-27T00:43:02.693349"
+      },
+      {
+        "id": 5644,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 943778,
+          "added_to_inv": "2025-12-27T00:56:00.930435"
+        },
+        "added_date": "2025-12-27T00:56:00.953233"
+      },
+      {
+        "id": 3051,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 943778,
+          "added_to_inv": "2025-12-27T00:56:02.421555"
+        },
+        "added_date": "2025-12-27T00:56:02.446049"
+      },
+      {
+        "id": 7955,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 943778,
+          "added_to_inv": "2025-12-27T00:56:12.712135"
+        },
+        "added_date": "2025-12-27T00:56:12.735085"
+      },
+      {
+        "id": 3711,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 961410,
+          "added_to_inv": "2025-12-27T01:13:24.159653"
+        },
+        "added_date": "2025-12-27T01:13:24.160963"
+      },
+      {
+        "id": 5885,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 961410,
+          "added_to_inv": "2025-12-27T01:13:25.508631"
+        },
+        "added_date": "2025-12-27T01:13:25.532660"
+      },
+      {
+        "id": 3873,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 961410,
+          "added_to_inv": "2025-12-27T01:13:26.710454"
+        },
+        "added_date": "2025-12-27T01:13:26.730891"
+      },
+      {
+        "id": 4440,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 961410,
+          "added_to_inv": "2025-12-27T01:13:27.725199"
+        },
+        "added_date": "2025-12-27T01:13:27.749516"
+      },
+      {
+        "id": 6828,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 555597,
+          "added_to_inv": "2025-12-27T01:22:29.499454"
+        },
+        "added_date": "2025-12-27T01:22:29.500515"
+      },
+      {
+        "id": 6003,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 198606,
+          "added_to_inv": "2025-12-27T01:23:03.990366"
+        },
+        "added_date": "2025-12-27T01:23:03.991151"
+      },
+      {
+        "id": 5740,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 385050,
+          "added_to_inv": "2025-12-27T01:32:52.962827"
+        },
+        "added_date": "2025-12-27T01:32:52.964350"
+      },
+      {
+        "id": 4607,
+        "type": "case",
+        "data": {
+          "type": "random",
+          "sender_id": 739673001,
+          "original_case_id": 963055,
+          "added_to_inv": "2025-12-27T02:30:03.663830"
+        },
+        "added_date": "2025-12-27T02:30:03.664713"
+      },
+      {
+        "id": 9815,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 707604,
+          "added_to_inv": "2025-12-27T23:29:57.404796"
+        },
+        "added_date": "2025-12-27T23:29:57.425958"
+      },
+      {
+        "id": 9507,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 590444,
+          "added_to_inv": "2025-12-28T00:13:10.886935"
+        },
+        "added_date": "2025-12-28T00:13:10.887876"
+      },
+      {
+        "id": 3034,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 135651,
+          "added_to_inv": "2025-12-28T01:41:08.657345"
+        },
+        "added_date": "2025-12-28T01:41:08.658500"
+      }
+    ],
+    "subscriptions": [],
+    "other": []
+  },
+  "739673001": {
+    "cases": [
+      {
+        "id": 1157,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 645417980,
+          "original_case_id": 456290,
+          "added_to_inv": "2025-12-27T22:40:19.093127"
+        },
+        "added_date": "2025-12-27T22:40:19.112872"
+      },
+      {
+        "id": 5275,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 229431,
+          "added_to_inv": "2025-12-27T22:42:14.337135"
+        },
+        "added_date": "2025-12-27T22:42:14.357433"
+      },
+      {
+        "id": 7655,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 747012,
+          "added_to_inv": "2025-12-27T22:43:01.225843"
+        },
+        "added_date": "2025-12-27T22:43:01.247690"
+      }
+    ],
+    "subscriptions": [
+      {
+        "id": 3828,
+        "type": "subscription",
+        "data": {
+          "subscription_type": "vip",
+          "subscription_name": "V.I.P",
+          "subscription_id": 1,
+          "duration": "навсегда",
+          "sender_id": 532796366,
+          "original_sub_id": 647229,
+          "added_to_inv": "2025-12-27T02:53:54.149337"
+        },
+        "added_date": "2025-12-27T02:53:54.168691"
+      },
+      {
+        "id": 5813,
+        "type": "subscription",
+        "data": {
+          "subscription_type": "premium",
+          "subscription_name": "PREMIUM",
+          "subscription_id": 2,
+          "duration": "год",
+          "sender_id": 532796366,
+          "original_sub_id": 658977,
+          "added_to_inv": "2025-12-27T02:54:26.016797"
+        },
+        "added_date": "2025-12-27T02:54:26.042926"
+      },
+      {
+        "id": 7688,
+        "type": "subscription",
+        "data": {
+          "subscription_type": "deluxe",
+          "subscription_name": "DELUXE",
+          "subscription_id": 3,
+          "duration": "полгода",
+          "sender_id": 532796366,
+          "original_sub_id": 425864,
+          "added_to_inv": "2025-12-27T02:54:45.799980"
+        },
+        "added_date": "2025-12-27T02:54:45.824608"
+      },
+      {
+        "id": 8789,
+        "type": "subscription",
+        "data": {
+          "subscription_type": "luxe",
+          "subscription_name": "LUXE",
+          "subscription_id": 4,
+          "duration": "год",
+          "sender_id": 532796366,
+          "original_sub_id": 545933,
+          "added_to_inv": "2025-12-27T02:55:00.356699"
+        },
+        "added_date": "2025-12-27T02:55:00.376704"
+      }
+    ],
+    "other": []
+  },
+  "645417980": {
+    "cases": [
+      {
+        "id": 4007,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:41:42.676945"
+        },
+        "added_date": "2025-12-27T00:41:42.695848"
+      },
+      {
+        "id": 5110,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:41:50.093178"
+        },
+        "added_date": "2025-12-27T00:41:50.112227"
+      },
+      {
+        "id": 6417,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:41:51.054553"
+        },
+        "added_date": "2025-12-27T00:41:51.076191"
+      },
+      {
+        "id": 1114,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:41:51.843433"
+        },
+        "added_date": "2025-12-27T00:41:51.864848"
+      },
+      {
+        "id": 7898,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:41:52.655867"
+        },
+        "added_date": "2025-12-27T00:41:52.677449"
+      },
+      {
+        "id": 1148,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:41:55.359100"
+        },
+        "added_date": "2025-12-27T00:41:55.389537"
+      },
+      {
+        "id": 4062,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:41:56.056636"
+        },
+        "added_date": "2025-12-27T00:41:56.080119"
+      },
+      {
+        "id": 1224,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:41:56.997632"
+        },
+        "added_date": "2025-12-27T00:41:57.017871"
+      },
+      {
+        "id": 8482,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:25.139222"
+        },
+        "added_date": "2025-12-27T00:42:25.159633"
+      },
+      {
+        "id": 4006,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:26.042163"
+        },
+        "added_date": "2025-12-27T00:42:26.063863"
+      },
+      {
+        "id": 7131,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:28.003561"
+        },
+        "added_date": "2025-12-27T00:42:28.024178"
+      },
+      {
+        "id": 9878,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:28.803721"
+        },
+        "added_date": "2025-12-27T00:42:28.824460"
+      },
+      {
+        "id": 9035,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:29.623289"
+        },
+        "added_date": "2025-12-27T00:42:29.642079"
+      },
+      {
+        "id": 1214,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:30.776985"
+        },
+        "added_date": "2025-12-27T00:42:30.796814"
+      },
+      {
+        "id": 4722,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:31.736313"
+        },
+        "added_date": "2025-12-27T00:42:31.755878"
+      },
+      {
+        "id": 1576,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:34.412591"
+        },
+        "added_date": "2025-12-27T00:42:34.431324"
+      },
+      {
+        "id": 3974,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:35.302537"
+        },
+        "added_date": "2025-12-27T00:42:35.322021"
+      },
+      {
+        "id": 2390,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:36.260416"
+        },
+        "added_date": "2025-12-27T00:42:36.279417"
+      },
+      {
+        "id": 3004,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:37.085456"
+        },
+        "added_date": "2025-12-27T00:42:37.104948"
+      },
+      {
+        "id": 9130,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:38.099699"
+        },
+        "added_date": "2025-12-27T00:42:38.121348"
+      },
+      {
+        "id": 8280,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:39.028222"
+        },
+        "added_date": "2025-12-27T00:42:39.047390"
+      },
+      {
+        "id": 2557,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:39.925958"
+        },
+        "added_date": "2025-12-27T00:42:39.947416"
+      },
+      {
+        "id": 1462,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:40.718027"
+        },
+        "added_date": "2025-12-27T00:42:40.738199"
+      },
+      {
+        "id": 2453,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:41.598251"
+        },
+        "added_date": "2025-12-27T00:42:41.619406"
+      },
+      {
+        "id": 6175,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:42.436072"
+        },
+        "added_date": "2025-12-27T00:42:42.457278"
+      },
+      {
+        "id": 7180,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:43.322911"
+        },
+        "added_date": "2025-12-27T00:42:43.340576"
+      },
+      {
+        "id": 4091,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:45.540411"
+        },
+        "added_date": "2025-12-27T00:42:45.563712"
+      },
+      {
+        "id": 9117,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:46.510966"
+        },
+        "added_date": "2025-12-27T00:42:46.533324"
+      },
+      {
+        "id": 7270,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 714849,
+          "added_to_inv": "2025-12-27T00:42:47.927286"
+        },
+        "added_date": "2025-12-27T00:42:47.946533"
+      },
+      {
+        "id": 1359,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 423591,
+          "added_to_inv": "2025-12-27T22:44:48.455467"
+        },
+        "added_date": "2025-12-27T22:44:48.476908"
+      },
+      {
+        "id": 7265,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 386041,
+          "added_to_inv": "2025-12-27T23:28:39.455285"
+        },
+        "added_date": "2025-12-27T23:28:39.475351"
+      },
+      {
+        "id": 5673,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 532796366,
+          "original_case_id": 539430,
+          "added_to_inv": "2025-12-28T00:14:56.306646"
+        },
+        "added_date": "2025-12-28T00:14:56.325327"
+      }
+    ],
+    "subscriptions": [
+      {
+        "id": 1166,
+        "type": "subscription",
+        "data": {
+          "subscription_type": "vip",
+          "subscription_name": "V.I.P",
+          "subscription_id": 1,
+          "duration": "месяц",
+          "sender_id": 532796366,
+          "original_sub_id": 966937,
+          "added_to_inv": "2025-12-27T17:10:27.297182"
+        },
+        "added_date": "2025-12-27T17:10:27.298099"
+      }
+    ],
+    "other": []
+  },
+  "757341853": {
+    "cases": [
+      {
+        "id": 5340,
+        "type": "case",
+        "data": {
+          "type": "ng",
+          "sender_id": 645417980,
+          "original_case_id": 255003,
+          "added_to_inv": "2025-12-27T00:46:40.009491"
+        },
+        "added_date": "2025-12-27T00:46:40.033079"
+      }
+    ],
+    "subscriptions": [],
+    "other": []
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "645417980_4_1766771873": {
+    "user_id": 645417980,
+    "prize_id": 4,
+    "duration": "неделя",
+    "expire_date": "2026-01-02T20:57:53.029586",
+    "notified": false
+  },
+  "645417980_1_1766772381": {
+    "user_id": 645417980,
+    "prize_id": 1,
+    "duration": "1 день",
+    "expire_date": "2025-12-27T21:06:21.489622",
+    "notified": true
+  },
+  "739673001_1_1766781693": {
+    "user_id": 739673001,
+    "prize_id": 1,
+    "duration": "неделя",
+    "expire_date": "2026-01-02T23:41:33.288245",
+    "notified": false
+  },
+  "739673001_4_1766781892": {
+    "user_id": 739673001,
+    "prize_id": 4,
+    "duration": "год",
+    "expire_date": "2026-12-26T23:44:52.546614",
+    "notified": false
+  },
+  "532796366_2_1766782852": {
+    "user_id": 532796366,
+    "prize_id": 2,
+    "duration": "месяц",
+    "expire_date": "2026-01-26T00:00:52.440594",
+    "notified": false
+  },
+  "739673001_2_1766783505": {
+    "user_id": 739673001,
+    "prize_id": 2,
+    "duration": "полгода",
+    "expire_date": "2026-06-25T00:11:45.835779",
+    "notified": false
+  },
+  "645417980_2_1766784956": {
+    "user_id": 645417980,
+    "prize_id": 2,
+    "duration": "полгода",
+    "expire_date": "2026-06-25T00:35:56.769326",
+    "notified": false
+  },
+  "757341853_3_1766785030": {
+    "user_id": 757341853,
+    "prize_id": 3,
+    "duration": "1 день",
+    "expire_date": "2025-12-28T00:37:10.334886",
+    "notified": true
+  },
+  "757341853_3_1766785073": {
+    "user_id": 757341853,
+    "prize_id": 3,
+    "duration": "1 день",
+    "expire_date": "2025-12-28T00:37:52.980355",
+    "notified": true
+  },
+  "308110442_1_1766785126": {
+    "user_id": 308110442,
+    "prize_id": 1,
+    "duration": "полгода",
+    "expire_date": "2026-06-25T00:38:46.768648",
+    "notified": false
+  },
+  "308110442_4_1766785192": {
+    "user_id": 308110442,
+    "prize_id": 4,
+    "duration": "полгода",
+    "expire_date": "2026-06-25T00:39:52.470443",
+    "notified": false
+  },
+  "757341853_1_1766785233": {
+    "user_id": 757341853,
+    "prize_id": 1,
+    "duration": "год",
+    "expire_date": "2026-12-27T00:40:33.479666",
+    "notified": false
+  },
+  "308110442_2_1766785431": {
+    "user_id": 308110442,
+    "prize_id": 2,
+    "duration": "год",
+    "expire_date": "2026-12-27T00:43:51.785192",
+    "notified": false
+  },
+  "308110442_4_1766785446": {
+    "user_id": 308110442,
+    "prize_id": 4,
+    "duration": "полгода",
+    "expire_date": "2026-06-25T00:44:06.964382",
+    "notified": false
+  },
+  "757341853_1_1766785664": {
+    "user_id": 757341853,
+    "prize_id": 1,
+    "duration": "полгода",
+    "expire_date": "2026-06-25T00:47:44.745654",
+    "notified": false
+  },
+  "757341853_2_1766785705": {
+    "user_id": 757341853,
+    "prize_id": 2,
+    "duration": "месяц",
+    "expire_date": "2026-01-26T00:48:25.847603",
+    "notified": false
+  },
+  "757341853_3_1766785714": {
+    "user_id": 757341853,
+    "prize_id": 3,
+    "duration": "год",
+    "expire_date": "2026-12-27T00:48:34.218794",
+    "notified": false
+  },
+  "757341853_3_1766785721": {
+    "user_id": 757341853,
+    "prize_id": 3,
+    "duration": "1 день",
+    "expire_date": "2025-12-28T00:48:41.018354",
+    "notified": true
+  },
+  "757341853_2_1766785747": {
+    "user_id": 757341853,
+    "prize_id": 2,
+    "duration": "месяц",
+    "expire_date": "2026-01-26T00:49:07.357897",
+    "notified": false
+  },
+  "757341853_2_1766785756": {
+    "user_id": 757341853,
+    "prize_id": 2,
+    "duration": "месяц",
+    "expire_date": "2026-01-26T00:49:16.354601",
+    "notified": false
+  },
+  "757341853_4_1766785766": {
+    "user_id": 757341853,
+    "prize_id": 4,
+    "duration": "неделя",
+    "expire_date": "2026-01-03T00:49:26.306443",
+    "notified": false
+  },
+  "757341853_2_1766785774": {
+    "user_id": 757341853,
+    "prize_id": 2,
+    "duration": "1 день",
+    "expire_date": "2025-12-28T00:49:34.609042",
+    "notified": true
+  },
+  "757341853_3_1766785785": {
+    "user_id": 757341853,
+    "prize_id": 3,
+    "duration": "год",
+    "expire_date": "2026-12-27T00:49:45.892198",
+    "notified": false
+  },
+  "757341853_2_1766785798": {
+    "user_id": 757341853,
+    "prize_id": 2,
+    "duration": "неделя",
+    "expire_date": "2026-01-03T00:49:58.223950",
+    "notified": false
+  },
+  "757341853_2_1766785804": {
+    "user_id": 757341853,
+    "prize_id": 2,
+    "duration": "год",
+    "expire_date": "2026-12-27T00:50:03.995430",
+    "notified": false
+  },
+  "532796366_1_1766787213": {
+    "user_id": 532796366,
+    "prize_id": 1,
+    "duration": "месяц",
+    "expire_date": "2026-01-26T01:13:33.875423",
+    "notified": false
+  },
+  "532796366_4_1766787757": {
+    "user_id": 532796366,
+    "prize_id": 4,
+    "duration": "1 день",
+    "expire_date": "2025-12-28T01:22:37.408844",
+    "notified": true
+  },
+  "532796366_4_1766787790": {
+    "user_id": 532796366,
+    "prize_id": 4,
+    "duration": "полгода",
+    "expire_date": "2026-06-25T01:23:10.272526",
+    "notified": false
+  },
+  "739673001_1_1766789364": {
+    "user_id": 739673001,
+    "prize_id": 1,
+    "duration": "1 день",
+    "expire_date": "2025-12-28T01:49:24.261561",
+    "notified": true
+  },
+  "739673001_1_1766789369": {
+    "user_id": 739673001,
+    "prize_id": 1,
+    "duration": "полгода",
+    "expire_date": "2026-06-25T01:49:29.839311",
+    "notified": false
+  },
+  "739673001_1_1766789376": {
+    "user_id": 739673001,
+    "prize_id": 1,
+    "duration": "неделя",
+    "expire_date": "2026-01-03T01:49:36.147404",
+    "notified": false
+  },
+  "532796366_4_1766791954": {
+    "user_id": 532796366,
+    "prize_id": 4,
+    "duration": "1 день",
+    "expire_date": "2025-12-28T02:32:34.307845",
+    "notified": true
+  },
+  "532796366_2_1766791961": {
+    "user_id": 532796366,
+    "prize_id": 2,
+    "duration": "месяц",
+    "expire_date": "2026-01-26T02:32:41.174910",
+    "notified": false
+  },
+  "532796366_4_1766791974": {
+    "user_id": 532796366,
+    "prize_id": 4,
+    "duration": "1 день",
+    "expire_date": "2025-12-28T02:32:54.409259",
+    "notified": true
+  },
+  "532796366_2_1766791979": {
+    "user_id": 532796366,
+    "prize_id": 2,
+    "duration": "неделя",
+    "expire_date": "2026-01-03T02:32:59.435846",
+    "notified": false
+  },
+  "532796366_4_1766791984": {
+    "user_id": 532796366,
+    "prize_id": 4,
+    "duration": "неделя",
+    "expire_date": "2026-01-03T02:33:04.554219",
+    "notified": false
+  },
+  "532796366_4_1766791989": {
+    "user_id": 532796366,
+    "prize_id": 4,
+    "duration": "полгода",
+    "expire_date": "2026-06-25T02:33:09.618142",
+    "notified": false
+  },
+  "532796366_4_1766792000": {
+    "user_id": 532796366,
+    "prize_id": 4,
+    "duration": "полгода",
+    "expire_date": "2026-06-25T02:33:20.436159",
+    "notified": false
+  },
+  "532796366_2_1766792005": {
+    "user_id": 532796366,
+    "prize_id": 2,
+    "duration": "год",
+    "expire_date": "2026-12-27T02:33:25.640246",
+    "notified": false
+  },
+  "532796366_4_1766792010": {
+    "user_id": 532796366,
+    "prize_id": 4,
+    "duration": "неделя",
+    "expire_date": "2026-01-03T02:33:30.668733",
+    "notified": false
+  },
+  "532796366_4_1766792020": {
+    "user_id": 532796366,
+    "prize_id": 4,
+    "duration": "год",
+    "expire_date": "2026-12-27T02:33:40.802373",
+    "notified": false
+  },
+  "532796366_4_1766792036": {
+    "user_id": 532796366,
+    "prize_id": 4,
+    "duration": "месяц",
+    "expire_date": "2026-01-26T02:33:56.638772",
+    "notified": false
+  },
+  "532796366_3_1766792054": {
+    "user_id": 532796366,
+    "prize_id": 3,
+    "duration": "год",
+    "expire_date": "2026-12-27T02:34:14.966181",
+    "notified": false
+  },
+  "532796366_1_1766792060": {
+    "user_id": 532796366,
+    "prize_id": 1,
+    "duration": "месяц",
+    "expire_date": "2026-01-26T02:34:19.993237",
+    "notified": false
+  },
+  "532796366_1_1766793128": {
+    "user_id": 532796366,
+    "prize_id": 1,
+    "duration": "полгода",
+    "expire_date": "2026-06-25T02:52:08.461613",
+    "notified": false
+  },
+  "308110442_2_1766844651": {
+    "user_id": 308110442,
+    "prize_id": 2,
+    "duration": "неделя",
+    "expire_date": "2026-01-03T17:10:51.217041",
+    "notified": false
+  },
+  "308110442_3_1766844674": {
+    "user_id": 308110442,
+    "prize_id": 3,
+    "duration": "год",
+    "expire_date": "2026-12-27T17:11:14.898885",
+    "notified": false
+  },
+  "308110442_4_1766844695": {
+    "user_id": 308110442,
+    "prize_id": 4,
+    "duration": "неделя",
+    "expire_date": "2026-01-03T17:11:35.717429",
+    "notified": false
+  },
+  "308110442_4_1766844711": {
+    "user_id": 308110442,
+    "prize_id": 4,
+    "duration": "1 день",
+    "expire_date": "2025-12-28T17:11:51.333604",
+    "notified": false
+  },
+  "308110442_1_1766844726": {
+    "user_id": 308110442,
+    "prize_id": 1,
+    "duration": "1 день",
+    "expire_date": "2025-12-28T17:12:06.454313",
+    "notified": false
+  },
+  "308110442_4_1766844739": {
+    "user_id": 308110442,
+    "prize_id": 4,
+    "duration": "год",
+    "expire_date": "2026-12-27T17:12:19.898630",
+    "notified": false
+  },
+  "308110442_4_1766844754": {
+    "user_id": 308110442,
+    "prize_id": 4,
+    "duration": "1 день",
+    "expire_date": "2025-12-28T17:12:34.071704",
+    "notified": false
+  },
+  "308110442_2_1766844767": {
+    "user_id": 308110442,
+    "prize_id": 2,
+    "duration": "полгода",
+    "expire_date": "2026-06-25T17:12:47.855400",
+    "notified": false
+  },
+  "308110442_1_1766844789": {
+    "user_id": 308110442,
+    "prize_id": 1,
+    "duration": "месяц",
+    "expire_date": "2026-01-26T17:13:09.415563",
+    "notified": false
+  },
+  "308110442_2_1766844823": {
+    "user_id": 308110442,
+    "prize_id": 2,
+    "duration": "месяц",
+    "expire_date": "2026-01-26T17:13:43.298958",
+    "notified": false
+  },
+  "308110442_2_1766844855": {
+    "user_id": 308110442,
+    "prize_id": 2,
+    "duration": "год",
+    "expire_date": "2026-12-27T17:14:15.784261",
+    "notified": false
+  },
+  "308110442_2_1766844872": {
+    "user_id": 308110442,
+    "prize_id": 2,
+    "duration": "полгода",
+    "expire_date": "2026-06-25T17:14:32.124650",
+    "notified": false
+  },
+  "308110442_2_1766844883": {
+    "user_id": 308110442,
+    "prize_id": 2,
+    "duration": "неделя",
+    "expire_date": "2026-01-03T17:14:43.529098",
+    "notified": false
+  },
+  "532796366_2_1766845634": {
+    "user_id": 532796366,
+    "prize_id": 2,
+    "duration": "год",
+    "expire_date": "2026-12-27T17:27:14.117289",
+    "notified": false
+  },
+  "739673001_2_1766846475": {
+    "user_id": 739673001,
+    "prize_id": 2,
+    "duration": "месяц",
+    "expire_date": "2026-01-26T17:41:15.395959",
+    "notified": false
+  },
+  "739673001_1_1766846480": {
+    "user_id": 739673001,
+    "prize_id": 1,
+    "duration": "полгода",
+    "expire_date": "2026-06-25T17:41:20.771674",
+    "notified": false
+  },
+  "739673001_1_1766846485": {
+    "user_id": 739673001,
+    "prize_id": 1,
+    "duration": "месяц",
+    "expire_date": "2026-01-26T17:41:25.898333",
+    "notified": false
+  },
+  "739673001_3_1766846491": {
+    "user_id": 739673001,
+    "prize_id": 3,
+    "duration": "неделя",
+    "expire_date": "2026-01-03T17:41:31.728919",
+    "notified": false
+  },
+  "739673001_1_1766846496": {
+    "user_id": 739673001,
+    "prize_id": 1,
+    "duration": "1 день",
+    "expire_date": "2025-12-28T17:41:36.586127",
+    "notified": false
+  },
+  "739673001_4_1766848116": {
+    "user_id": 739673001,
+    "prize_id": 4,
+    "duration": "год",
+    "expire_date": "2026-12-27T18:08:36.619835",
+    "notified": false
+  },
+  "532796366_2_1766867488": {
+    "user_id": 532796366,
+    "prize_id": 2,
+    "duration": "1 день",
+    "expire_date": "2025-12-28T23:31:28.584875",
+    "notified": false
+  },
+  "532796366_1_1766869975": {
+    "user_id": 532796366,
+    "prize_id": 1,
+    "duration": "полгода",
+    "expire_date": "2026-06-26T00:12:55.915546",
+    "notified": false
+  },
+  "1041878379_4_1766891142": {
+    "user_id": 1041878379,
+    "prize_id": 4,
+    "duration": "месяц",
+    "expire_date": "2026-01-27T06:05:42.312843",
+    "notified": false
+  }
+}
